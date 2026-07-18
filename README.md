@@ -164,9 +164,16 @@ This provides:
 
 ---
 
-## 👥 Team CodeCrew
+## 👥 Team  Stochastic girls
 
 CodeCrew was developed as an **Agentic AI Internship Project** by a team of five members.
+| Team Member | 
+|---|
+| **Dikshita ** | 
+| **Manshi Rawat** | 
+| **Kanika Khati** | 
+| **Namrata Yadav** | 
+| **Kavya Pandey** | 
 
 The project demonstrates how specialized AI agents can collaborate through orchestration to automate and improve real-world software development workflows.
 
@@ -176,9 +183,3 @@ The project demonstrates how specialized AI agents can collaborate through orche
 
 Built with **LangGraph • LangChain • GPT-4o-mini • PyGithub • Streamlit**
 
-##TEAM - Stochastic girls
-Dikshita
-Manshi Rawat
-Kanika Khati
-Namrata Yadav
-Kavya Pandey
