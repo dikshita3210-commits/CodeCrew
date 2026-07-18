@@ -167,9 +167,9 @@ This provides:
 ## 👥 Team  Stochastic girls
 
 CodeCrew was developed as an **Agentic AI Internship Project** by a team of five members.
-| Team Member | 
+| Team Members | 
 |---|
-| **Dikshita ** | 
+| **Dikshita**  | 
 | **Manshi Rawat** | 
 | **Kanika Khati** | 
 | **Namrata Yadav** | 
