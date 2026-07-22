@@ -181,5 +181,5 @@ The project demonstrates how specialized AI agents can collaborate through orche
 
 ### ⭐ CodeCrew — Smarter Code Reviews Through Multi-Agent Intelligence
 
-Built with **LangGraph • LangChain • GPT-4o-mini • PyGithub • Streamlit*
+Built with **LangGraph • LangChain • GPT-4o-mini • PyGithub • Streamlit**
 
